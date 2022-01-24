@@ -1,7 +1,7 @@
 function isPalindrome(word) {
   // Write your algorithm here
 }
-
+//Expecting isPalindrome to equal true
 /* 
   Add your pseudocode here
 */
