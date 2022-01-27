@@ -1,11 +1,14 @@
 function isPalindrome(word) {
   // Write your algorithm here
 }
-
+const isPalindromeTrue = isPalindrome(word)
 /* 
   Add your pseudocode here
 */
-
+if (word === true)
+return true
+else
+return false
 /*
   Add written explanation of your solution here
 */
